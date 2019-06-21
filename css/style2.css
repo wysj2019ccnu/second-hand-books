@@ -1,0 +1,27 @@
+
+.picture{
+    width: 200px;
+    height: 250px;
+    float: left;
+    text-align: center;
+    margin-right: 10%;
+} 
+.word{
+    width: 500px;
+    height: 400px;
+    background: #A2A876;
+    float: right;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 10%;
+}
+
+.message{
+    margin-top: 10%;
+
+}
+
+.alert alert-info{
+    background-color: #cdebd1
+}
+

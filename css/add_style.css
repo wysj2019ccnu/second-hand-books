@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-image: url(../image/background2.jpg);
+	background-repeat:no-repeat;
+	height:100%;
+    width:100%;
+    overflow: hidden;
+    background-size:100%
+}
+
